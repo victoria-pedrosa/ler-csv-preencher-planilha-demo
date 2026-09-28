@@ -1,0 +1,5 @@
+# Apps Script: arquivos com dados reais de clientes ficam só no projeto (não versionar)
+DadosClientes.gs
+DadosSegmentos.gs
+.clasp.json
+.env
