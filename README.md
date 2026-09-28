@@ -1,6 +1,6 @@
-# Ler Csv Preencher Planilha
+# Demonstração — Consolidação de CSVs em planilha de controle
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de consolidação de CSVs em planilha de controle — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Dados de CSVs espalhados no Drive precisavam ser consolidados manualmente numa planilha de controle.
